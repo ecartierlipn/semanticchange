@@ -4,7 +4,6 @@ If you don't care of how all is done, go straight to **Semantic change candidate
 
 
 ## Data files
-
 ### Frantext frequency lists
 `frantext_1800-1850_all_freq.csv` : output file from Frantext web interface for corpus 1800-1850
 `frantext_1950-2000_all_freq.csv` : output file from Frantext web interface for corpus 1950-2000
